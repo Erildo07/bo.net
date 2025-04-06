@@ -1,1 +1,1 @@
-# bo.net
+# bot.net
